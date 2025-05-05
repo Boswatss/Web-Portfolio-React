@@ -1,0 +1,11 @@
+{
+  "name": "web-portfolio-react",
+  "version": "1.0.0",
+  "description": "ที่นี่คุณสามารถนำเทมเพลตนี้ไปใช้ได้อย่างสบายใจ และ เว็บนี้ถูกพัฒนาโดยใช้ React.js (Vite) และสามารถปรับธีมเป็น Dark Mode หรือ Light Mode ตามความชอบของผู้ใช้.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
